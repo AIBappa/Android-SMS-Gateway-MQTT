@@ -14,3 +14,23 @@
 .cxx
 local.properties
 app/release/**
+
+# Configuration files with credentials
+*config.json
+*_config.json
+sms_gateway_config.json
+Laptop_Reciever/config.json
+
+# Logs
+*.log
+Laptop_Reciever/sms_log.txt
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
