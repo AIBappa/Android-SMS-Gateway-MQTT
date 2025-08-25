@@ -59,9 +59,6 @@ https://github.com/ibnux/Android-SMS-Gateway/
 
 [<img src="https://ibnux.github.io/Trakteer-button/trakteer_button.png" width="120">](https://trakteer.id/ibnux)
 
-## DONATE @ibnux
-
-[paypal.me/ibnux](https://paypal.me/ibnux)
 
 # LICENSE  
 ## Apache License 2.0  
