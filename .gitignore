@@ -34,3 +34,20 @@ __pycache__/
 env/
 venv/
 ENV/
+
+# Cloudflare Worker sensitive files
+cf-worker/node_modules/
+cf-worker/node_modules/.cache/
+cf-worker/node_modules/.cache/wrangler/
+cf-worker/node_modules/.cache/wrangler/wrangler-account.json
+cf-worker/node_modules/.mf/
+cf-worker/node_modules/.mf/cf.json
+
+# Consider creating a template version of wrangler.toml with placeholders
+# cf-worker/wrangler.toml
+
+# Temporary files
+Untitled Document
+**/Untitled*
+cf-worker/wrangler.toml
+Laptop_Reciever/sms_log.txt

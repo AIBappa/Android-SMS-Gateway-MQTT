@@ -1,0 +1,13 @@
+name = "sms-gateway"
+main = "index.js"
+compatibility_date = "2025-08-25"
+
+# Variables
+[vars]
+# API_KEY is stored as a secret using `wrangler secret put API_KEY`
+
+# D1 Database
+[[d1_databases]]
+binding = "DB"
+database_name = "your-database-name"
+database_id = "your-database-id-here"  # Replace with your actual database ID
